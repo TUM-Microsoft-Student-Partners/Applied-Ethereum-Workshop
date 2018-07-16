@@ -1,6 +1,6 @@
 Check out the slides!
 
-This is a guide about how to set up your workspace with Metamask, Remix and the Robsten Test Network and build your own Smart Contract with these tools.
-You can also have a look on our example voting Smart Contract
+This guide is about how to set up your workspace with Metamask, Remix and the Robsten Test Network and build your own Smart Contract with these tools.
+Don't forget to have a look at our example voting Smart Contract!
 
 Have fun!
